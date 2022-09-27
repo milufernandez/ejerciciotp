@@ -1,0 +1,29 @@
+.body {
+    background-color: lightcoral;
+}
+
+/*HEADER*/
+nav div .navbar-nav a {
+    color: purple;
+}
+nav div .navbar-nav a:hover {
+    color: darkorchid;
+}
+
+ /*MAIN*/
+ .banner {
+    height: 75vh; 
+}
+
+/*FOOTER*/
+footer{
+    font-size: 0.9rem;
+}
+footer a {
+    text-decoration: none;
+    color: white
+}
+
+footer a:hover {
+    color: darkmagenta;
+}
