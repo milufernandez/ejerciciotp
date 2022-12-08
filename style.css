@@ -4,10 +4,10 @@
 
 /*HEADER*/
 nav div .navbar-nav a {
-    color: purple;
+    color: white
 }
 nav div .navbar-nav a:hover {
-    color: darkorchid;
+    color: rgb(65, 15, 48);
 }
 
  /*MAIN*/
@@ -25,5 +25,5 @@ footer a {
 }
 
 footer a:hover {
-    color: darkmagenta;
+    color: rgb(65, 15, 48);
 }
